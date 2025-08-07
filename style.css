@@ -1,0 +1,67 @@
+
+body{
+   font-family: 'Montserrat', sans-serif;
+   color: #FFFFFF;
+}
+
+.gradient{
+    background: linear-gradient(135deg,rgb(0,97,242) 0%,rgb(105,0,199) 100%);
+}
+
+/*button*/
+
+.custom-shape-divider-bottom-1754481330 {
+   
+    width: 100%;
+    overflow: hidden;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1754481330 svg {
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 50px;
+}
+
+.custom-shape-divider-bottom-1754481330 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+/*top*/
+
+.custom-shape-divider-top-1754501069 {
+   
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1754501069 svg {
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 50px;
+}
+
+.custom-shape-divider-top-1754501069 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+#companies .list-group-item{
+    padding-left: 2rem;
+    margin-bottom: 2rem;
+}
+    
+
+
+.icons{
+    height: 5rem;
+    width: 5rem;
+    color: #FFFFFF;
+    font-size: 1.7rem;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
